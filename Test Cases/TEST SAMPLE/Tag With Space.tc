@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tag With Space</name>
+   <tag>hoho, hihi, haha, olala,,tag1,tag2</tag>
+   <comment></comment>
+   <testCaseGuid>d8a19f7a-6b47-44bc-a955-7794773ea813</testCaseGuid>
+</TestCaseEntity>
