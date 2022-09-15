@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>ac38d2a7-df32-47e1-a0d5-8b1d21e38ad6</testSuiteGuid>
    <testCaseLink>
-      <guid>63f03c3a-97d0-47bf-a5d3-558e572e1205</guid>
+      <guid>efa2b8df-7f82-4d41-b918-a7a435168e54</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/API/reqres.in</testCaseId>
+      <testCaseId>Test Cases/New Test Case</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
