@@ -22,5 +22,4 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
 WebUI.closeBrowser()
-assert 1==1
-
+assert 1==2
