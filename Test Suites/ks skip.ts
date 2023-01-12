@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>test ui pass</name>
+   <name>ks skip</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>9cef0e93-7841-47fa-a429-5f78b523ad2c</testSuiteGuid>
+   <testSuiteGuid>e1479903-71a3-409a-9285-eabfeb4033cf</testSuiteGuid>
    <testCaseLink>
-      <guid>b908c936-2896-4c3d-aee7-3d45493d89ad</guid>
+      <guid>4a31ffe9-7d42-473f-917d-c3959d468731</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ui-pass</testCaseId>
+      <testCaseId>Test Cases/skip test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

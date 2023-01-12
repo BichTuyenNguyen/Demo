@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>error</name>
-   <tag></tag>
+   <tag>api</tag>
    <comment></comment>
    <testCaseGuid>9583d98d-8390-46a0-a893-1d98e2e51943</testCaseGuid>
 </TestCaseEntity>

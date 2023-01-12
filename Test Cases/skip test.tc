@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>skip test</name>
-   <tag></tag>
+   <tag>api</tag>
    <comment></comment>
    <testCaseGuid>3ec8a725-c171-4cf0-a50d-3bb6f97c2459</testCaseGuid>
 </TestCaseEntity>

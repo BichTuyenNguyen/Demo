@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>pass local</name>
+   <name>ks fail</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>2556b2a8-ad2a-4085-b7e1-aa47af5c5395</testSuiteGuid>
+   <testSuiteGuid>51d7cddc-53b4-4897-a20f-c11d9d551aa3</testSuiteGuid>
    <testCaseLink>
-      <guid>6b2c04c1-87a9-4de1-964d-54b23eecea95</guid>
+      <guid>c869bc3f-59eb-477f-9349-c6e780171296</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/pass</testCaseId>
+      <testCaseId>Test Cases/fail</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
